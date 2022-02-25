@@ -1,0 +1,8 @@
+///////////////////////////
+///// Config /////
+///////////////////////////
+const Config = {
+	resName: 'resourceName',
+};
+
+export default Config;
